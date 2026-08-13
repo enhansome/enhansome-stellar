@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stellar Core",
+          "description": "stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:21:43Z",
+            "owner": "stellar",
+            "repo": "stellar-core",
+            "stars": 3296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stellar Protocol",
+          "description": "Developer discussion about possible changes to the protocol.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stellar Ecosystem Proposals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "RPC",
+                "last_commit": "2026-08-13T17:15:21Z",
+                "owner": "stellar",
+                "repo": "stellar-protocol",
+                "stars": 630
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Core Advancement Proposals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "RPC",
+                "last_commit": "2026-08-13T17:15:21Z",
+                "owner": "stellar",
+                "repo": "stellar-protocol",
+                "stars": 630
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "RPC",
+            "last_commit": "2026-08-13T17:15:21Z",
+            "owner": "stellar",
+            "repo": "stellar-protocol",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astrocore",
+          "description": "Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-14T21:11:41Z",
+            "owner": "astroband",
+            "repo": "astrocore",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Stellar SDKs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-27T09:56:03Z",
+                "owner": "StellarCN",
+                "repo": "py-stellar-base",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-16T09:23:45Z",
+                "owner": "lightsail-network",
+                "repo": "java-stellar-sdk",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS and macOS SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-08-11T15:26:10Z",
+                "owner": "Soneso",
+                "repo": "stellar-ios-mac-sdk",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C# .NET Core 2.0 SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C#",
+                "last_commit": "2024-05-24T16:19:41Z",
+                "owner": "elucidsoft",
+                "repo": "dotnet-stellar-sdk",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flutter SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dart",
+                "last_commit": "2026-08-11T10:12:52Z",
+                "owner": "Soneso",
+                "repo": "stellar_flutter_sdk",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2025-01-28T13:38:19Z",
+                "owner": "astroband",
+                "repo": "ruby-stellar-sdk",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++ SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-06-18T13:57:31Z",
+                "owner": "bnogalm",
+                "repo": "StellarQtSDK",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scala SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Scala",
+                "last_commit": "2023-03-24T20:10:31Z",
+                "owner": "Synesso",
+                "repo": "scala-stellar-sdk",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2020-01-24T12:30:44Z",
+                "owner": "jillesvangurp",
+                "repo": "stellar-kotlin-client",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity 3D SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2020-12-27T23:13:50Z",
+                "owner": "Kirbyrawr",
+                "repo": "stellar-sdk-unity",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Interact with the Stellar Network",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Horizon API",
+              "description": "Horizon allows you to submit transactions to the network, check the status of accounts, and subscribe to event streams. Servers hosted in the US.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Horizon Github Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Go",
+                    "last_commit": "2025-12-10T10:05:35Z",
+                    "owner": "stellar",
+                    "repo": "go",
+                    "stars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Astrograph",
+              "description": "A GraphQL interface to the Stellar network.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Astrograph Github Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "TypeScript",
+                    "last_commit": "2026-02-14T23:46:27Z",
+                    "owner": "astroband",
+                    "repo": "astrograph",
+                    "stars": 114
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "item",
+              "title": "go-stellar-ipfs",
+              "description": "A library that is a bridge between Stellar and IPFS.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "go-stellar-ipfs Github Repo",
+                  "description": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Stellar Ticker API",
+              "description": "Provides the freshest data about Markets, Issuers and Assets on the Stellar Network.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ticker API Documentation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Go",
+                    "last_commit": "2025-12-10T10:05:35Z",
+                    "owner": "stellar",
+                    "repo": "go",
+                    "stars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Useful Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stellar Vanity Address Generator",
+              "description": "A simple CLI tool to generate custom Stellar vanity addresses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2021-11-23T05:50:56Z",
+                "owner": "robertDurst",
+                "repo": "stellar-vanity-address-generator",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hack Stellar Boilerplate",
+              "description": "This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2022-06-01T12:01:36Z",
+                "owner": "stellar",
+                "repo": "hack-stellar",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Create Stellar Token (Testnet)",
+              "description": "Script that creates a custom Stellar token on testnet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-06-25T07:16:30Z",
+                "owner": "msfeldstein",
+                "repo": "create-stellar-token",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stellar transaction signers inspector",
+              "description": "Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-06-12T12:09:32Z",
+                "owner": "stellar-expert",
+                "repo": "stellar-tx-signers-inspector",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StellarBurrito",
+              "description": "An open-source wrapper for the JavaScript Stellar SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-03-27T12:24:57Z",
+                "owner": "stellarburrito",
+                "repo": "stellarburritojs",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Validator Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parallel Stellar Core Catchup",
+              "description": "Sync a full Stellar validator node (including full history) as fast as possible. Split the big ledger into small chunks of size CHUNK_SIZE. Run a catchup for the chunks in parallel with WORKERS worker processes. Stitch together the resulting database and history archive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2021-01-25T13:27:34Z",
+                "owner": "satoshipay",
+                "repo": "stellar-core-parallel-catchup",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast Stellar Core Catch Up",
+              "description": "Starting a full stellar core validator from scratch takes a while, as the node needs to download and process a lot of data during the \"Catch up\" phase. The catching up phase usually takes more than a month. This script helps to make the process significantly shorter, as it allows to perform the catch up of multiple ledgers blocks in parallel.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2020-02-19T08:43:18Z",
+                "owner": "Lobstrco",
+                "repo": "stellar-core-parallel-catchup-py",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stellar Parallel Catchup",
+              "description": "Catchup Stellar node history in background.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-08-08T09:20:12Z",
+                "owner": "astroband",
+                "repo": "stellar-parallel-catchup",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Developer Resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.\nSpell checking and checking for broken/incorrect links is also welcomed - let's keep the list clean!",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:27:42.871Z",
+    "original_repository": "stellar/awesome-stellar",
+    "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
+    "enhanced_repository": "enhansome/enhansome-stellar",
+    "enhanced_repository_description": null,
+    "title": "Awesome stellar with stars"
+  }
+}
