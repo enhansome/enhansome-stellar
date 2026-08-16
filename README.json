@@ -115,7 +115,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Swift",
-                "last_commit": "2026-08-15T00:56:49Z",
+                "last_commit": "2026-08-15T22:04:19Z",
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
                 "stars": 131
@@ -143,7 +143,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Dart",
-                "last_commit": "2026-08-15T11:02:46Z",
+                "last_commit": "2026-08-15T20:17:36Z",
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
                 "stars": 86
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:48:36.889Z",
+    "last_updated": "2026-08-16T16:49:15.644Z",
     "original_repository": "stellar/awesome-stellar",
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
     "enhanced_repository": "enhansome/enhansome-stellar",
