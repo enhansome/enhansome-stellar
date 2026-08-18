@@ -168,7 +168,7 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,297 | 🐛 326 | 🌐 C++ | 📅 2026-08-15 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,297 | 🐛 327 | 🌐 C++ | 📅 2026-08-15 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
 * [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 631 | 🐛 55 | 🌐 RPC | 📅 2026-08-13 - Developer discussion about possible changes to the protocol.
   * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 631 | 🐛 55 | 🌐 RPC | 📅 2026-08-13
@@ -187,11 +187,11 @@ If you're new to Stellar start here 👇
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 8 | 🌐 Python | 📅 2026-07-27
   * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 202 | 🐛 3 | 🌐 Java | 📅 2026-07-16
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 131 | 🐛 1 | 🌐 Swift | 📅 2026-08-17
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2026-08-18
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
-  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 86 | 🐛 1 | 🌐 Dart | 📅 2026-08-17
+  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 86 | 🐛 0 | 🌐 Dart | 📅 2026-08-18
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
-  * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 26 | 🌐 C++ | 📅 2026-06-18
+  * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 26 | 🌐 C++ | 📅 2026-08-18
   * [Scala SDK](https://github.com/synesso/scala-stellar-sdk) ⚠️ Archived
   * [Kotlin SDK](https://github.com/Inbot/inbot-stellar-kotlin-wrapper) ⭐ 12 | 🐛 20 | 🌐 Kotlin | 📅 2020-01-24
   * [Unity 3D SDK](https://github.com/Kirbyrawr/stellar-sdk-unity) ⚠️ Archived
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
