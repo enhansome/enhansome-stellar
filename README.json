@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27085821,
             "language": "C++",
             "last_commit": "2026-08-15T09:44:08Z",
             "owner": "stellar",
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22821380,
                 "language": "RPC",
                 "last_commit": "2026-08-13T17:15:21Z",
                 "owner": "stellar",
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22821380,
                 "language": "RPC",
                 "last_commit": "2026-08-13T17:15:21Z",
                 "owner": "stellar",
@@ -53,6 +56,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 22821380,
             "language": "RPC",
             "last_commit": "2026-08-13T17:15:21Z",
             "owner": "stellar",
@@ -67,6 +71,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174141293,
             "language": "Rust",
             "last_commit": "2023-08-14T21:11:41Z",
             "owner": "astroband",
@@ -86,8 +91,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 43143745,
                 "language": "Python",
-                "last_commit": "2026-07-27T09:56:03Z",
+                "last_commit": "2026-08-19T08:47:16Z",
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
                 "stars": 368
@@ -100,6 +106,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46310811,
                 "language": "Java",
                 "last_commit": "2026-07-16T09:23:45Z",
                 "owner": "lightsail-network",
@@ -114,8 +121,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 118758582,
                 "language": "Swift",
-                "last_commit": "2026-08-18T16:51:52Z",
+                "last_commit": "2026-08-19T12:51:58Z",
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
                 "stars": 131
@@ -128,6 +136,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 108481654,
                 "language": "C#",
                 "last_commit": "2024-05-24T16:19:41Z",
                 "owner": "elucidsoft",
@@ -142,8 +151,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 274342651,
                 "language": "Dart",
-                "last_commit": "2026-08-18T16:52:08Z",
+                "last_commit": "2026-08-19T12:51:50Z",
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
                 "stars": 86
@@ -156,6 +166,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32699772,
                 "language": "Ruby",
                 "last_commit": "2025-01-28T13:38:19Z",
                 "owner": "astroband",
@@ -170,6 +181,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 106678414,
                 "language": "C++",
                 "last_commit": "2026-08-18T14:50:23Z",
                 "owner": "bnogalm",
@@ -184,6 +196,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 116639844,
                 "language": "Scala",
                 "last_commit": "2023-03-24T20:10:31Z",
                 "owner": "Synesso",
@@ -198,6 +211,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 145398015,
                 "language": "Kotlin",
                 "last_commit": "2020-01-24T12:30:44Z",
                 "owner": "jillesvangurp",
@@ -212,6 +226,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 305120811,
                 "language": null,
                 "last_commit": "2020-12-27T23:13:50Z",
                 "owner": "Kirbyrawr",
@@ -238,6 +253,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 1103377857,
                     "language": "Go",
                     "last_commit": "2025-12-10T10:05:35Z",
                     "owner": "stellar",
@@ -259,25 +275,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 133501331,
                     "language": "TypeScript",
                     "last_commit": "2026-02-14T23:46:27Z",
                     "owner": "astroband",
                     "repo": "astrograph",
                     "stars": 114
                   }
-                }
-              ]
-            },
-            {
-              "node_type": "item",
-              "title": "go-stellar-ipfs",
-              "description": "A library that is a bridge between Stellar and IPFS.",
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "go-stellar-ipfs Github Repo",
-                  "description": null,
-                  "children": []
                 }
               ]
             },
@@ -293,6 +297,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 1103377857,
                     "language": "Go",
                     "last_commit": "2025-12-10T10:05:35Z",
                     "owner": "stellar",
@@ -316,6 +321,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 126147161,
                 "language": "Rust",
                 "last_commit": "2021-11-23T05:50:56Z",
                 "owner": "robertDurst",
@@ -330,6 +336,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 240050170,
                 "language": "TypeScript",
                 "last_commit": "2022-06-01T12:01:36Z",
                 "owner": "stellar",
@@ -344,6 +351,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 203409935,
                 "language": "JavaScript",
                 "last_commit": "2022-06-25T07:16:30Z",
                 "owner": "msfeldstein",
@@ -358,6 +366,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 240404847,
                 "language": "JavaScript",
                 "last_commit": "2024-06-12T12:09:32Z",
                 "owner": "stellar-expert",
@@ -372,6 +381,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 174545771,
                 "language": "JavaScript",
                 "last_commit": "2019-03-27T12:24:57Z",
                 "owner": "stellarburrito",
@@ -393,6 +403,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163327688,
                 "language": "Shell",
                 "last_commit": "2021-01-25T13:27:34Z",
                 "owner": "satoshipay",
@@ -407,6 +418,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 232547459,
                 "language": "Python",
                 "last_commit": "2020-02-19T08:43:18Z",
                 "owner": "Lobstrco",
@@ -421,6 +433,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 199661232,
                 "language": "Go",
                 "last_commit": "2019-08-08T09:20:12Z",
                 "owner": "astroband",
@@ -432,21 +445,12 @@
         }
       ],
       "title": "Developer Resources"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.\nSpell checking and checking for broken/incorrect links is also welcomed - let's keep the list clean!",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:57:17.925Z",
+    "last_updated": "2026-08-19T12:54:59.728Z",
     "original_repository": "stellar/awesome-stellar",
+    "original_repository_id": 197632650,
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
     "enhanced_repository": "enhansome/enhansome-stellar",
     "enhanced_repository_description": null,
