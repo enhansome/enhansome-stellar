@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-19T22:00:43Z",
+            "last_commit": "2026-08-20T23:11:57Z",
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3297
+            "stars": 3298
           }
         },
         {
@@ -123,7 +123,7 @@
                 "archived": false,
                 "id": 118758582,
                 "language": "Swift",
-                "last_commit": "2026-08-20T12:48:35Z",
+                "last_commit": "2026-08-20T20:00:11Z",
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
                 "stars": 131
@@ -153,7 +153,7 @@
                 "archived": false,
                 "id": 274342651,
                 "language": "Dart",
-                "last_commit": "2026-08-19T15:05:02Z",
+                "last_commit": "2026-08-21T15:22:16Z",
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
                 "stars": 86
@@ -280,7 +280,7 @@
                     "last_commit": "2026-02-14T23:46:27Z",
                     "owner": "astroband",
                     "repo": "astrograph",
-                    "stars": 114
+                    "stars": 115
                   }
                 }
               ]
@@ -448,7 +448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:00:02.234Z",
+    "last_updated": "2026-08-21T17:00:29.633Z",
     "original_repository": "stellar/awesome-stellar",
     "original_repository_id": 197632650,
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
