@@ -185,11 +185,11 @@ If you're new to Stellar start here 👇
 * [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
 
 * Stellar SDKs
-  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 369 | 🐛 9 | 🌐 Python | 📅 2026-08-19
+  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 9 | 🌐 Python | 📅 2026-08-19
   * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 202 | 🐛 4 | 🌐 Java | 📅 2026-07-16
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 131 | 🐛 1 | 🌐 Swift | 📅 2026-08-23
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 131 | 🐛 1 | 🌐 Swift | 📅 2026-08-24
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
-  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 86 | 🐛 1 | 🌐 Dart | 📅 2026-08-23
+  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 86 | 🐛 1 | 🌐 Dart | 📅 2026-08-24
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
   * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 26 | 🌐 C++ | 📅 2026-08-18
   * [Scala SDK](https://github.com/synesso/scala-stellar-sdk) ⚠️ Archived
@@ -230,6 +230,8 @@ If you're new to Stellar start here 👇
 
 ## Developer Educational Resources
 
+* [Hacking Stellar](https://github.com/0xfe/hacking-stellar) ⭐ 90 | 🐛 1 | 📅 2019-08-04 - This online book introduces you to Stellar with lots of practical examples using the command-line client, Lumen. Incomplete but useful nonetheless for understanding basic concepts.
+
 * [Developer Guides and Concepts](https://www.stellar.org/developers/guides/) - These guides are designed to help you learn more about the technical aspects of integrating Stellar into your application or service.
   * [How and Why to Complete Your Stellar.toml](https://www.stellar.org/developers/guides/walkthroughs/how-to-complete-stellar-toml.html)
   * [How to Connect Your Anchor Service to Stellar Wallets](https://www.stellar.org/developers/guides/walkthroughs/connect-to-wallets.html)
@@ -256,8 +258,6 @@ If you're new to Stellar start here 👇
 * [Distributed Trustless Workers with Stellar](https://medium.com/lumenauts/distributed-trustless-workers-with-stellar-e197fd1b77f6) - An in-depth look at how Stellar’s advanced features can be used to create a “smart contract” between a customer and an anonymous and untrusted worker.
 
 * [I Just Wrote a Stellar Smart Contract](https://medium.com/@robdurst/i-just-wrote-a-stellar-smart-contract-7f54a391f5e1) & [I Just Wrote a Stellar Smart Contract Pt. 2: Let’s Dig a Little Deeper](https://medium.com/hackernoon/i-just-wrote-a-stellar-smart-contract-pt-2-lets-dive-a-little-deeper-a8dae19b9d0a) - Exploring Stellar 'smart contracts.'
-
-* [Hacking Stellar](https://github.com/0xfe/hacking-stellar) ⭐ 90 | 🐛 1 | 📅 2019-08-04 - This online book introduces you to Stellar with lots of practical examples using the command-line client, Lumen. Incomplete but useful nonetheless for understanding basic concepts.
 
 * [Understanding the Stellar Consensus Protocol](#understanding-the-stellar-consensus-protocol) - Useful information regarding SCP.
 
@@ -365,13 +365,13 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
 
 ## Store Your Stellar Assets
 
+* [Litemint](https://litemint.com/) - Litemint is an [open source](https://github.com/litemint/litemint) ⭐ 51 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-25, non-custodial wallet allowing you to store any Stellar asset and trade on the SDEX. It also offers an app and game ecosystem powered by decentralized cross-currency purchases through Stellar path payments.
+
 * [Keybase](https://keybase.io/blog/keybase-stellar-launch) - Keybase is an encrypted communication app with a built-in Stellar wallet available on most mobile and desktop devices.
 
 * [Solar Wallet](https://solarwallet.io/) - Solar Wallet is an easy to-use wallet with multi-signature transactions. Available on most mobile and desktop devices. Allows users to withdraw stablecoins directly to their bank account.
 
 * [Lobstr](https://lobstr.co/) - Lobstr is a custodial wallet with 2FA key recovery. This wallet allows you to store any Stellar-based asset and perform trades on the Stellar decentralized exchange.
-
-* [Litemint](https://litemint.com/) - Litemint is an [open source](https://github.com/litemint/litemint) ⭐ 51 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-25, non-custodial wallet allowing you to store any Stellar asset and trade on the SDEX. It also offers an app and game ecosystem powered by decentralized cross-currency purchases through Stellar path payments.
 
 * [Tangem](https://tangem.com/) - An NFC card wallet that supports Stellar assets.
 
@@ -384,8 +384,8 @@ The Stellar Consensus Protocol (SCP) provides a way to reach consensus without r
   * [Interstellar.Exchange](https://interstellar.exchange/)
 
 * Trading Bots
-  * [Kelp (free & open-source)](https://kelpbot.io/) - Kelp is a trading bot for the Stellar universal marketplace.
   * [Rockfish (free & open-source)](https://github.com/Reidmcc/rockfish) ⭐ 71 | 🐛 9 | 🌐 Go | 📅 2019-03-21 - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX).
+  * [Kelp (free & open-source)](https://kelpbot.io/) - Kelp is a trading bot for the Stellar universal marketplace.
 
 ## Videos, Podcasts, and AMAs
 
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
