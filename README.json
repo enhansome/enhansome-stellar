@@ -32,7 +32,7 @@
                 "archived": false,
                 "id": 22821380,
                 "language": "RPC",
-                "last_commit": "2026-08-24T21:46:02Z",
+                "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
                 "stars": 632
@@ -47,7 +47,7 @@
                 "archived": false,
                 "id": 22821380,
                 "language": "RPC",
-                "last_commit": "2026-08-24T21:46:02Z",
+                "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
                 "stars": 632
@@ -58,7 +58,7 @@
             "archived": false,
             "id": 22821380,
             "language": "RPC",
-            "last_commit": "2026-08-24T21:46:02Z",
+            "last_commit": "2026-08-25T20:40:46Z",
             "owner": "stellar",
             "repo": "stellar-protocol",
             "stars": 632
@@ -123,7 +123,7 @@
                 "archived": false,
                 "id": 118758582,
                 "language": "Swift",
-                "last_commit": "2026-08-25T16:49:21Z",
+                "last_commit": "2026-08-25T19:31:05Z",
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
                 "stars": 131
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:04:27.954Z",
+    "last_updated": "2026-08-26T18:13:42.831Z",
     "original_repository": "stellar/awesome-stellar",
     "original_repository_id": 197632650,
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
