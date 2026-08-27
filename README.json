@@ -12,10 +12,10 @@
             "archived": false,
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-24T18:42:15Z",
+            "last_commit": "2026-08-27T01:30:12Z",
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3300
+            "stars": 3301
           }
         },
         {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 632
+                "stars": 634
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 632
+                "stars": 634
               }
             }
           ],
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-25T20:40:46Z",
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 632
+            "stars": 634
           }
         },
         {
@@ -93,7 +93,7 @@
                 "archived": false,
                 "id": 43143745,
                 "language": "Python",
-                "last_commit": "2026-08-19T08:47:16Z",
+                "last_commit": "2026-08-27T11:20:26Z",
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
                 "stars": 368
@@ -518,9 +518,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:13:42.831Z",
-    "original_repository": "stellar/awesome-stellar",
-    "original_repository_id": 197632650,
+    "last_updated": "2026-08-27T12:04:29.469Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 197632650,
+      "language": null,
+      "last_commit": "2026-02-23T20:16:45Z",
+      "owner": "stellar",
+      "repo": "awesome-stellar",
+      "stars": 193
+    },
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
     "enhanced_repository": "enhansome/enhansome-stellar",
     "enhanced_repository_description": null,
