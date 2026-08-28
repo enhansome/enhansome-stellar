@@ -12,7 +12,7 @@
             "archived": false,
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-27T01:30:12Z",
+            "last_commit": "2026-08-28T00:42:13Z",
             "owner": "stellar",
             "repo": "stellar-core",
             "stars": 3301
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 634
+                "stars": 633
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-25T20:40:46Z",
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 634
+                "stars": 633
               }
             }
           ],
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-25T20:40:46Z",
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 634
+            "stars": 633
           }
         },
         {
@@ -93,7 +93,7 @@
                 "archived": false,
                 "id": 43143745,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:20:26Z",
+                "last_commit": "2026-08-28T00:59:53Z",
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
                 "stars": 368
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:29.469Z",
+    "last_updated": "2026-08-28T01:02:02.528Z",
     "original_repository_info": {
       "archived": false,
       "id": 197632650,
