@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation for the peer-to-peer agent that manages the Stellar network.",
+            "homepage": "https://www.stellar.org",
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-28T20:03:15Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:20:19Z",
+            "open_issues": 335,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3301
+            "stars": 3301,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
         },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer discussion about possible changes to the protocol.",
+                "homepage": null,
                 "id": 22821380,
                 "language": "RPC",
+                "license": null,
                 "last_commit": "2026-08-25T20:40:46Z",
+                "open_issues": 55,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 633
+                "stars": 633,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -47,24 +57,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer discussion about possible changes to the protocol.",
+                "homepage": null,
                 "id": 22821380,
                 "language": "RPC",
+                "license": null,
                 "last_commit": "2026-08-25T20:40:46Z",
+                "open_issues": 55,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 633
+                "stars": 633,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Developer discussion about possible changes to the protocol.",
+            "homepage": null,
             "id": 22821380,
             "language": "RPC",
+            "license": null,
             "last_commit": "2026-08-25T20:40:46Z",
+            "open_issues": 55,
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 633
+            "stars": 633,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
         },
@@ -75,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stellar-core implementation in Rust (WIP)",
+            "homepage": null,
             "id": 174141293,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-08-14T21:11:41Z",
+            "open_issues": 13,
             "owner": "astroband",
             "repo": "astrocore",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
         },
@@ -96,12 +121,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stellar client library for the Python language ",
+                "homepage": "https://stellar-sdk.readthedocs.io",
                 "id": 43143745,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:11:56Z",
+                "open_issues": 7,
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "blockchain",
+                  "horizon",
+                  "lumen",
+                  "sdk",
+                  "stellar"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -112,12 +148,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Java Stellar SDK library provides APIs to build transactions and connect to Horizon and Stellar RPC Server.",
+                "homepage": "https://javadoc.io/doc/network.lightsail/stellar-sdk",
                 "id": 46310811,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T09:23:45Z",
+                "open_issues": 4,
                 "owner": "lightsail-network",
                 "repo": "java-stellar-sdk",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "java",
+                  "sdk",
+                  "stellar"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -128,12 +175,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stellar SDK for iOS & macOS - Swift, Stellar, Horizon, Soneso",
+                "homepage": null,
                 "id": 118758582,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:40:44Z",
+                "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
-                "stars": 131
+                "stars": 132,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "horizon",
+                  "ios",
+                  "macos",
+                  "sdk",
+                  "stellar",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -144,12 +205,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Stellar API SDK for .NET 6.x",
+                "homepage": null,
                 "id": 108481654,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-24T16:19:41Z",
+                "open_issues": 23,
                 "owner": "elucidsoft",
                 "repo": "dotnet-stellar-sdk",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "blockchain",
+                  "blockchain-technology",
+                  "cryptocurrency",
+                  "csharp",
+                  "distributed-ledger",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "horizon",
+                  "stellar",
+                  "stellar-network"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -160,12 +237,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stellar SDK for flutter - dart, Stellar, Horizon, Soneso",
+                "homepage": null,
                 "id": 274342651,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:39:01Z",
+                "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "blockchain",
+                  "dart",
+                  "flutter",
+                  "plugin",
+                  "sdk",
+                  "soneso",
+                  "stellar"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -176,12 +266,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community maintained Ruby SDK for Stellar",
+                "homepage": null,
                 "id": 32699772,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2025-01-28T13:38:19Z",
+                "open_issues": 25,
                 "owner": "astroband",
                 "repo": "ruby-stellar-sdk",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "blockchain",
+                  "hacktoberfest",
+                  "ruby",
+                  "sdk",
+                  "stellar",
+                  "stellar-network"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -192,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stellar Java SDK ported to Qt/C++. Interface to deal with Horizon API",
+                "homepage": null,
                 "id": 106678414,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-18T14:50:23Z",
+                "open_issues": 26,
                 "owner": "bnogalm",
                 "repo": "StellarQtSDK",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -208,12 +315,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scala SDK for the Stellar network",
+                "homepage": "https://synesso.github.io/scala-stellar-sdk",
                 "id": 116639844,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T20:10:31Z",
+                "open_issues": 49,
                 "owner": "Synesso",
                 "repo": "scala-stellar-sdk",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "scala",
+                  "stellar",
+                  "stellar-network"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -224,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin wrapper for the Stellar java sdk with some added kotlin convenience",
+                "homepage": null,
                 "id": 145398015,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2020-01-24T12:30:44Z",
+                "open_issues": 20,
                 "owner": "jillesvangurp",
                 "repo": "stellar-kotlin-client",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -240,12 +363,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom package of .NET Stellar SDK, it have all the dependencies fixed to work in Unity and you can download it via package manager.",
+                "homepage": null,
                 "id": 305120811,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-27T23:13:50Z",
+                "open_issues": 0,
                 "owner": "Kirbyrawr",
                 "repo": "stellar-sdk-unity",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "lumens",
+                  "npm",
+                  "package",
+                  "sdk",
+                  "stellar",
+                  "unity",
+                  "unity-package",
+                  "xlm"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             }
@@ -268,12 +407,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Archived public monorepo of go code",
+                    "homepage": "https://stellar.org/developers",
                     "id": 1103377857,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-10T10:05:35Z",
+                    "open_issues": 0,
                     "owner": "stellar",
                     "repo": "go",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "blockchain",
+                      "cryptocurrency",
+                      "deprecated",
+                      "horizon",
+                      "stellar"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:44.371Z"
                 }
@@ -291,12 +441,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Access Stellar ledger via GraphQL",
+                    "homepage": "https://astrograph.io",
                     "id": 133501331,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T23:46:27Z",
+                    "open_issues": 90,
                     "owner": "astroband",
                     "repo": "astrograph",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": [
+                      "blockchain",
+                      "dgraph",
+                      "graphql",
+                      "graphql-server",
+                      "stellar"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:44.371Z"
                 }
@@ -314,12 +475,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Archived public monorepo of go code",
+                    "homepage": "https://stellar.org/developers",
                     "id": 1103377857,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-10T10:05:35Z",
+                    "open_issues": 0,
                     "owner": "stellar",
                     "repo": "go",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "blockchain",
+                      "cryptocurrency",
+                      "deprecated",
+                      "horizon",
+                      "stellar"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:36:44.371Z"
                 }
@@ -339,12 +511,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Stellar Vanity Wallets",
+                "homepage": "https://crates.io/crates/stellar_vanity",
                 "id": 126147161,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-11-23T05:50:56Z",
+                "open_issues": 5,
                 "owner": "robertDurst",
                 "repo": "stellar-vanity-address-generator",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "blockchain",
+                  "rust",
+                  "stellar",
+                  "vanity-address"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -355,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 240050170,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-06-01T12:01:36Z",
+                "open_issues": 9,
                 "owner": "stellar",
                 "repo": "hack-stellar",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -371,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates a custom stellar token on testnet",
+                "homepage": null,
                 "id": 203409935,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-25T07:16:30Z",
+                "open_issues": 7,
                 "owner": "msfeldstein",
                 "repo": "create-stellar-token",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -387,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.",
+                "homepage": null,
                 "id": 240404847,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-12T12:09:32Z",
+                "open_issues": 1,
                 "owner": "stellar-expert",
                 "repo": "stellar-tx-signers-inspector",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -403,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StellarBurrito ",
+                "homepage": null,
                 "id": 174545771,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-27T12:24:57Z",
+                "open_issues": 0,
                 "owner": "stellarburrito",
                 "repo": "stellarburritojs",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             }
@@ -426,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast sync a Stellar Core validator node including full history with parallelization",
+                "homepage": null,
                 "id": 163327688,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-01-25T13:27:34Z",
+                "open_issues": 2,
                 "owner": "satoshipay",
                 "repo": "stellar-core-parallel-catchup",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -442,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Set of Python tools for a *fast* catch up of Stellar full validator node from scratch",
+                "homepage": null,
                 "id": 232547459,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-19T08:43:18Z",
+                "open_issues": 0,
                 "owner": "Lobstrco",
                 "repo": "stellar-core-parallel-catchup-py",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             },
@@ -458,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Catchup Stellar node history in background",
+                "homepage": null,
                 "id": 199661232,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-08-08T09:20:12Z",
+                "open_issues": 0,
                 "owner": "astroband",
                 "repo": "stellar-parallel-catchup",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             }
@@ -482,12 +699,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hacker's guide to using the Stellar blockchain platform.",
+            "homepage": null,
             "id": 125249987,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-08-04T20:14:38Z",
+            "open_issues": 1,
             "owner": "0xfe",
             "repo": "hacking-stellar",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "stellar"
+            ]
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
         }
@@ -504,12 +730,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bespoke Stellar wallet for gamers and collectors—open source, noncustodial, limitless.",
+            "homepage": "https://litemint.com",
             "id": 157977552,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-25T05:06:06Z",
+            "open_issues": 7,
             "owner": "litemint",
             "repo": "litemint",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "noncustodial",
+              "stellar",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
         }
@@ -531,12 +770,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)",
+                "homepage": null,
                 "id": 166722300,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-03-21T01:03:42Z",
+                "open_issues": 9,
                 "owner": "Reidmcc",
                 "repo": "rockfish",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "arbitrage",
+                  "arbitrage-bot",
+                  "blockchain",
+                  "cryptocurrency",
+                  "cryptocurrency-exchanges",
+                  "cryptocurrency-trading-bot",
+                  "stellar",
+                  "stellar-network",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
             }
@@ -547,15 +804,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:36:44.371Z",
+    "last_updated": "2026-08-29T04:51:41.556Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
+      "homepage": null,
       "id": 197632650,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-23T20:16:45Z",
+      "open_issues": 7,
       "owner": "stellar",
       "repo": "awesome-stellar",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "fintech",
+        "network",
+        "stellar"
+      ]
     },
     "original_repository_sha": "b7157b2b28b63ea7915a94aa7d8f3a1e66b33ea7",
     "enhanced_repository": "enhansome/enhansome-stellar",
