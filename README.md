@@ -170,9 +170,9 @@ If you're new to Stellar start here 👇
 
 * [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,301 | 🐛 335 | 🌐 C++ | 📅 2026-08-29 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 633 | 🐛 55 | 🌐 RPC | 📅 2026-08-25 - Developer discussion about possible changes to the protocol.
-  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 633 | 🐛 55 | 🌐 RPC | 📅 2026-08-25
-  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 633 | 🐛 55 | 🌐 RPC | 📅 2026-08-25
+* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25 - Developer discussion about possible changes to the protocol.
+  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25
+  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25
 
 * [Astrocore](https://github.com/astroband/astrocore) ⭐ 31 | 🐛 13 | 🌐 Rust | 📅 2023-08-14 - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
 
