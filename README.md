@@ -170,9 +170,9 @@ If you're new to Stellar start here 👇
 
 * [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,301 | 🐛 335 | 🌐 C++ | 📅 2026-08-29 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25 - Developer discussion about possible changes to the protocol.
-  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25
-  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 633 | 🐛 56 | 🌐 RPC | 📅 2026-08-25
+* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 633 | 🐛 58 | 🌐 RPC | 📅 2026-08-25 - Developer discussion about possible changes to the protocol.
+  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 633 | 🐛 58 | 🌐 RPC | 📅 2026-08-25
+  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 633 | 🐛 58 | 🌐 RPC | 📅 2026-08-25
 
 * [Astrocore](https://github.com/astroband/astrocore) ⭐ 31 | 🐛 13 | 🌐 Rust | 📅 2023-08-14 - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
 
@@ -220,7 +220,7 @@ If you're new to Stellar start here 👇
   * [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) ⭐ 23 | 🐛 5 | 🌐 Rust | 📅 2021-11-23 - A simple CLI tool to generate custom Stellar vanity addresses.
   * [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) ⚠️ Archived - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
   * [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) ⭐ 7 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-25 - Script that creates a custom Stellar token on testnet.
-  * [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-12 - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
+  * [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-30 - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
   * [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-27 - An open-source wrapper for the JavaScript Stellar SDK.
 
 * Validator Tools
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
