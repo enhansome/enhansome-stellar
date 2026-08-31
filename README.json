@@ -153,8 +153,8 @@
                 "id": 46310811,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-16T09:23:45Z",
-                "open_issues": 4,
+                "last_commit": "2026-08-31T12:38:26Z",
+                "open_issues": 5,
                 "owner": "lightsail-network",
                 "repo": "java-stellar-sdk",
                 "stars": 202,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:22:52.147Z",
+    "last_updated": "2026-08-31T21:32:34.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
