@@ -180,7 +180,7 @@
                 "id": 118758582,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T13:45:27Z",
+                "last_commit": "2026-09-04T09:32:48Z",
                 "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
@@ -242,8 +242,8 @@
                 "id": 274342651,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-01T09:07:29Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-04T12:33:36Z",
+                "open_issues": 1,
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
                 "stars": 87,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:21:10.594Z",
+    "last_updated": "2026-09-04T19:02:24.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
