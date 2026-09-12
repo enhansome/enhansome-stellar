@@ -168,7 +168,7 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,301 | 🐛 340 | 🌐 C++ | 📅 2026-09-10 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,301 | 🐛 338 | 🌐 C++ | 📅 2026-09-12 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
 * [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 632 | 🐛 56 | 🌐 RPC | 📅 2026-09-10 - Developer discussion about possible changes to the protocol.
   * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 632 | 🐛 56 | 🌐 RPC | 📅 2026-09-10
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
