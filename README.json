@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3301,
+            "stars": 3302,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:41:34.337Z",
+    "last_updated": "2026-09-20T18:57:08.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
@@ -813,7 +813,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-23T20:16:45Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "stellar",
       "repo": "awesome-stellar",
       "stars": 193,
