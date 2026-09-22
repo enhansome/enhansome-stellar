@@ -15,8 +15,8 @@
             "id": 27085821,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T18:48:44Z",
-            "open_issues": 332,
+            "last_commit": "2026-09-22T01:18:57Z",
+            "open_issues": 333,
             "owner": "stellar",
             "repo": "stellar-core",
             "stars": 3302,
@@ -41,11 +41,11 @@
                 "id": 22821380,
                 "language": "RPC",
                 "license": null,
-                "last_commit": "2026-09-16T05:06:11Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-22T18:28:02Z",
+                "open_issues": 55,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 632,
+                "stars": 633,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -62,11 +62,11 @@
                 "id": 22821380,
                 "language": "RPC",
                 "license": null,
-                "last_commit": "2026-09-16T05:06:11Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-22T18:28:02Z",
+                "open_issues": 55,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 632,
+                "stars": 633,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -79,11 +79,11 @@
             "id": 22821380,
             "language": "RPC",
             "license": null,
-            "last_commit": "2026-09-16T05:06:11Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-22T18:28:02Z",
+            "open_issues": 55,
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:29:23.214Z",
+    "last_updated": "2026-09-22T19:48:24.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
