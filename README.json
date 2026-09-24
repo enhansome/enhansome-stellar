@@ -242,7 +242,7 @@
                 "id": 274342651,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-15T15:15:06Z",
+                "last_commit": "2026-09-24T20:01:23Z",
                 "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:44:28.600Z",
+    "last_updated": "2026-09-24T20:03:29.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
