@@ -19,7 +19,7 @@
             "open_issues": 332,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3303,
+            "stars": 3302,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -41,11 +41,11 @@
                 "id": 22821380,
                 "language": "RPC",
                 "license": null,
-                "last_commit": "2026-09-22T22:27:05Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-30T16:57:23Z",
+                "open_issues": 57,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -62,11 +62,11 @@
                 "id": 22821380,
                 "language": "RPC",
                 "license": null,
-                "last_commit": "2026-09-22T22:27:05Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-30T16:57:23Z",
+                "open_issues": 57,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -79,11 +79,11 @@
             "id": 22821380,
             "language": "RPC",
             "license": null,
-            "last_commit": "2026-09-22T22:27:05Z",
-            "open_issues": 55,
+            "last_commit": "2026-09-30T16:57:23Z",
+            "open_issues": 57,
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 635,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -180,7 +180,7 @@
                 "id": 118758582,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T16:31:58Z",
+                "last_commit": "2026-09-30T20:13:12Z",
                 "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar-ios-mac-sdk",
@@ -242,7 +242,7 @@
                 "id": 274342651,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:37:01Z",
+                "last_commit": "2026-09-30T20:13:17Z",
                 "open_issues": 0,
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:56:58.137Z",
+    "last_updated": "2026-09-30T20:55:31.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
