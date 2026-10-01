@@ -168,11 +168,11 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,302 | 🐛 332 | 🌐 C++ | 📅 2026-09-29 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,302 | 🐛 333 | 🌐 C++ | 📅 2026-10-01 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 636 | 🐛 57 | 🌐 RPC | 📅 2026-09-30 - Developer discussion about possible changes to the protocol.
-  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 636 | 🐛 57 | 🌐 RPC | 📅 2026-09-30
-  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 636 | 🐛 57 | 🌐 RPC | 📅 2026-09-30
+* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 636 | 🐛 58 | 🌐 RPC | 📅 2026-09-30 - Developer discussion about possible changes to the protocol.
+  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 636 | 🐛 58 | 🌐 RPC | 📅 2026-09-30
+  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 636 | 🐛 58 | 🌐 RPC | 📅 2026-09-30
 
 * [Astrocore](https://github.com/astroband/astrocore) ⭐ 31 | 🐛 13 | 🌐 Rust | 📅 2023-08-14 - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
 
@@ -187,9 +187,9 @@ If you're new to Stellar start here 👇
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 7 | 🌐 Python | 📅 2026-09-29
   * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 202 | 🐛 2 | 🌐 Java | 📅 2026-09-23
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-09-30
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-10-01
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
-  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-09-30
+  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-10-01
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
   * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 26 | 🌐 C++ | 📅 2026-08-18
   * [Scala SDK](https://github.com/synesso/scala-stellar-sdk) ⚠️ Archived
@@ -220,7 +220,7 @@ If you're new to Stellar start here 👇
   * [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) ⭐ 23 | 🐛 5 | 🌐 Rust | 📅 2021-11-23 - A simple CLI tool to generate custom Stellar vanity addresses.
   * [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) ⚠️ Archived - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
   * [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) ⭐ 7 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-25 - Script that creates a custom Stellar token on testnet.
-  * [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-30 - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
+  * [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-01 - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
   * [StellarBurrito](https://github.com/stellarburrito/stellarburritojs) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-27 - An open-source wrapper for the JavaScript Stellar SDK.
 
 * Validator Tools
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
