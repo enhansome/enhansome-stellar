@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T20:26:42Z",
-            "open_issues": 334,
+            "open_issues": 335,
             "owner": "stellar",
             "repo": "stellar-core",
             "stars": 3303,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "Stellar Ecosystem Proposals",
-              "description": null,
+              "description": "stellar/stellar-protocol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,7 +53,7 @@
             {
               "node_type": "item",
               "title": "Core Advancement Proposals",
-              "description": null,
+              "description": "stellar/stellar-protocol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Python SDK",
-              "description": null,
+              "description": "StellarCN/py-stellar-base",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "Java SDK",
-              "description": null,
+              "description": "lightsail-network/java-stellar-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "iOS and macOS SDK",
-              "description": null,
+              "description": "Soneso/stellar-ios-mac-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
             {
               "node_type": "item",
               "title": "C# .NET Core 2.0 SDK",
-              "description": null,
+              "description": "elucidsoft/dotnet-stellar-sdk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -233,7 +233,7 @@
             {
               "node_type": "item",
               "title": "Flutter SDK",
-              "description": null,
+              "description": "Soneso/stellar_flutter_sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,7 +262,7 @@
             {
               "node_type": "item",
               "title": "Ruby SDK",
-              "description": null,
+              "description": "astroband/ruby-stellar-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -290,7 +290,7 @@
             {
               "node_type": "item",
               "title": "C++ SDK",
-              "description": null,
+              "description": "bnogalm/StellarQtSDK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -311,7 +311,7 @@
             {
               "node_type": "item",
               "title": "Scala SDK",
-              "description": null,
+              "description": "Synesso/scala-stellar-sdk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -338,7 +338,7 @@
             {
               "node_type": "item",
               "title": "Kotlin SDK",
-              "description": null,
+              "description": "jillesvangurp/stellar-kotlin-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Unity 3D SDK",
-              "description": null,
+              "description": "Kirbyrawr/stellar-sdk-unity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -403,7 +403,7 @@
                 {
                   "node_type": "item",
                   "title": "Horizon Github Repo",
-                  "description": null,
+                  "description": "stellar/go",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -437,7 +437,7 @@
                 {
                   "node_type": "item",
                   "title": "Astrograph Github Repo",
-                  "description": null,
+                  "description": "astroband/astrograph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -471,7 +471,7 @@
                 {
                   "node_type": "item",
                   "title": "Ticker API Documentation",
-                  "description": null,
+                  "description": "stellar/go",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:51:38.022Z",
+    "last_updated": "2026-10-03T05:08:10.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
