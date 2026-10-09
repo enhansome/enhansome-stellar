@@ -168,7 +168,7 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,305 | 🐛 338 | 🌐 C++ | 📅 2026-10-08 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,305 | 🐛 337 | 🌐 C++ | 📅 2026-10-09 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
 * [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 636 | 🐛 57 | 🌐 RPC | 📅 2026-10-07 - Developer discussion about possible changes to the protocol.
   * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 636 | 🐛 57 | 🌐 RPC | 📅 2026-10-07
@@ -186,8 +186,8 @@ If you're new to Stellar start here 👇
 
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 7 | 🌐 Python | 📅 2026-09-29
-  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 202 | 🐛 2 | 🌐 Java | 📅 2026-09-23
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 1 | 🌐 Swift | 📅 2026-10-07
+  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 201 | 🐛 2 | 🌐 Java | 📅 2026-09-23
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-10-09
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
   * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-10-08
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
