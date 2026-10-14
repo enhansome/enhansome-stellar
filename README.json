@@ -15,11 +15,11 @@
             "id": 27085821,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T19:04:02Z",
+            "last_commit": "2026-10-14T01:56:28Z",
             "open_issues": 335,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3306,
+            "stars": 3307,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -416,7 +416,7 @@
                     "open_issues": 0,
                     "owner": "stellar",
                     "repo": "go",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "blockchain",
                       "cryptocurrency",
@@ -484,7 +484,7 @@
                     "open_issues": 0,
                     "owner": "stellar",
                     "repo": "go",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": [
                       "blockchain",
                       "cryptocurrency",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:23:31.139Z",
+    "last_updated": "2026-10-14T20:16:34.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
