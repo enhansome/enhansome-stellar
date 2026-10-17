@@ -15,11 +15,11 @@
             "id": 27085821,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T18:59:53Z",
+            "last_commit": "2026-10-17T01:21:58Z",
             "open_issues": 332,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3307,
+            "stars": 3309,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -45,7 +45,7 @@
                 "open_issues": 58,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -66,7 +66,7 @@
                 "open_issues": 58,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -83,7 +83,7 @@
             "open_issues": 58,
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 636,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:37:27.591Z",
+    "last_updated": "2026-10-17T18:41:48.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
