@@ -15,11 +15,11 @@
             "id": 27085821,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T01:21:58Z",
-            "open_issues": 332,
+            "last_commit": "2026-10-19T18:03:01Z",
+            "open_issues": 331,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3309,
+            "stars": 3310,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:45:01.568Z",
+    "last_updated": "2026-10-19T21:10:46.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
