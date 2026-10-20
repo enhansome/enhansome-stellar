@@ -15,7 +15,7 @@
             "id": 27085821,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T18:03:01Z",
+            "last_commit": "2026-10-19T23:48:16Z",
             "open_issues": 331,
             "owner": "stellar",
             "repo": "stellar-core",
@@ -45,7 +45,7 @@
                 "open_issues": 58,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -66,7 +66,7 @@
                 "open_issues": 58,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:44.371Z"
@@ -83,7 +83,7 @@
             "open_issues": 58,
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 637,
+            "stars": 638,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -126,8 +126,8 @@
                 "id": 43143745,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T20:23:55Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-20T09:43:40Z",
+                "open_issues": 12,
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
                 "stars": 368,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:10:46.570Z",
+    "last_updated": "2026-10-20T20:04:00.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
