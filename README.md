@@ -168,7 +168,7 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,310 | 🐛 330 | 🌐 C++ | 📅 2026-10-27 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,310 | 🐛 329 | 🌐 C++ | 📅 2026-10-28 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
 * [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 638 | 🐛 59 | 🌐 RPC | 📅 2026-10-26 - Developer discussion about possible changes to the protocol.
   * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 638 | 🐛 59 | 🌐 RPC | 📅 2026-10-26
@@ -186,7 +186,7 @@ If you're new to Stellar start here 👇
 
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 369 | 🐛 9 | 🌐 Python | 📅 2026-10-23
-  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 201 | 🐛 4 | 🌐 Java | 📅 2026-10-27
+  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 201 | 🐛 2 | 🌐 Java | 📅 2026-10-28
   * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-10-25
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
   * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-10-25
@@ -205,7 +205,7 @@ If you're new to Stellar start here 👇
   * [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia.
 
   * [Astrograph](https://astrograph.io/) - A GraphQL interface to the Stellar network.
-    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 115 | 🐛 90 | 🌐 TypeScript | 📅 2026-02-14
+    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 115 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-28
 
   * [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - A library that is a bridge between Stellar and IPFS.
     * [go-stellar-ipfs Github Repo](https://github.com/aanupam23/go-stellar-ipfs)
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
