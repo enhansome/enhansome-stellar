@@ -126,8 +126,8 @@
                 "id": 43143745,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T01:26:53Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-30T10:34:59Z",
+                "open_issues": 7,
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
                 "stars": 369,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:17:04.301Z",
+    "last_updated": "2026-10-30T20:57:41.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
