@@ -168,11 +168,11 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,313 | 🐛 330 | 🌐 C++ | 📅 2026-11-03 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,313 | 🐛 331 | 🌐 C++ | 📅 2026-11-05 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-04 - Developer discussion about possible changes to the protocol.
-  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-04
-  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-04
+* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-05 - Developer discussion about possible changes to the protocol.
+  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-05
+  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 639 | 🐛 58 | 🌐 RPC | 📅 2026-11-05
 
 * [Astrocore](https://github.com/astroband/astrocore) ⭐ 31 | 🐛 13 | 🌐 Rust | 📅 2023-08-14 - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
 
@@ -185,9 +185,9 @@ If you're new to Stellar start here 👇
 * [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
 
 * Stellar SDKs
-  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 369 | 🐛 8 | 🌐 Python | 📅 2026-10-30
-  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 201 | 🐛 2 | 🌐 Java | 📅 2026-10-28
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 2 | 🌐 Swift | 📅 2026-11-04
+  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 369 | 🐛 7 | 🌐 Python | 📅 2026-11-05
+  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 201 | 🐛 2 | 🌐 Java | 📅 2026-11-05
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-11-05
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
   * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-11-04
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
@@ -205,7 +205,7 @@ If you're new to Stellar start here 👇
   * [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia.
 
   * [Astrograph](https://astrograph.io/) - A GraphQL interface to the Stellar network.
-    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 115 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-28
+    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 116 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-28
 
   * [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - A library that is a bridge between Stellar and IPFS.
     * [go-stellar-ipfs Github Repo](https://github.com/aanupam23/go-stellar-ipfs)
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
