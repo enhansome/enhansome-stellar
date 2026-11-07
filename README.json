@@ -520,7 +520,7 @@
                 "open_issues": 5,
                 "owner": "robertDurst",
                 "repo": "stellar-vanity-address-generator",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "blockchain",
                   "rust",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:42:02.718Z",
+    "last_updated": "2026-11-07T20:23:05.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",

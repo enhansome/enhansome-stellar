@@ -217,7 +217,7 @@ If you're new to Stellar start here 👇
     * [Markets Endpoint](https://ticker.stellar.org/markets.json) - Displays 24-hour, 7-day and orderbook information about markets that were active during these periods.
 
 * Useful Tools
-  * [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) ⭐ 23 | 🐛 5 | 🌐 Rust | 📅 2021-11-23 - A simple CLI tool to generate custom Stellar vanity addresses.
+  * [Stellar Vanity Address Generator](https://github.com/robertDurst/stellar-vanity-address-generator) ⭐ 24 | 🐛 5 | 🌐 Rust | 📅 2021-11-23 - A simple CLI tool to generate custom Stellar vanity addresses.
   * [Hack Stellar Boilerplate](https://github.com/tyvdh/hack-stellar) ⚠️ Archived - This Hack Stellar app is a boilerplate collection of basic Stellar functions. You can either hack this Stencil project into whatever you're trying to build or just cut and paste out the functions from here into your own project.
   * [Create Stellar Token (Testnet)](https://github.com/msfeldstein/create-stellar-token) ⭐ 7 | 🐛 7 | 🌐 JavaScript | 📅 2022-06-25 - Script that creates a custom Stellar token on testnet.
   * [Stellar transaction signers inspector](https://github.com/stellar-expert/stellar-tx-signers-inspector) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-01 - Discover required signers, weights, and build optimal signature schema for Stellar transactions and accounts.
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
