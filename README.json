@@ -42,7 +42,7 @@
                 "language": "RPC",
                 "license": null,
                 "last_commit": "2026-11-06T06:11:26Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
                 "stars": 640,
@@ -63,7 +63,7 @@
                 "language": "RPC",
                 "license": null,
                 "last_commit": "2026-11-06T06:11:26Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "stellar",
                 "repo": "stellar-protocol",
                 "stars": 640,
@@ -80,7 +80,7 @@
             "language": "RPC",
             "license": null,
             "last_commit": "2026-11-06T06:11:26Z",
-            "open_issues": 58,
+            "open_issues": 57,
             "owner": "stellar",
             "repo": "stellar-protocol",
             "stars": 640,
@@ -324,7 +324,7 @@
                 "open_issues": 49,
                 "owner": "Synesso",
                 "repo": "scala-stellar-sdk",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "blockchain",
                   "cryptocurrency",
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:23:05.349Z",
+    "last_updated": "2026-11-08T20:40:07.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
