@@ -168,11 +168,11 @@ If you're new to Stellar start here 👇
 
 ## Developer Resources
 
-* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,316 | 🐛 333 | 🌐 C++ | 📅 2026-11-14 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
+* [Stellar Core](https://github.com/stellar/stellar-core) ⭐ 3,317 | 🐛 332 | 🌐 C++ | 📅 2026-11-18 - stellar-core is the backbone of the Stellar network. It maintains a local copy of the ledger, communicating and staying in sync with other instances of stellar-core on the network.
 
-* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 641 | 🐛 58 | 🌐 RPC | 📅 2026-11-16 - Developer discussion about possible changes to the protocol.
-  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 641 | 🐛 58 | 🌐 RPC | 📅 2026-11-16
-  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 641 | 🐛 58 | 🌐 RPC | 📅 2026-11-16
+* [Stellar Protocol](https://github.com/stellar/stellar-protocol) ⭐ 640 | 🐛 57 | 🌐 RPC | 📅 2026-11-18 - Developer discussion about possible changes to the protocol.
+  * [Stellar Ecosystem Proposals](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/README.md) ⭐ 640 | 🐛 57 | 🌐 RPC | 📅 2026-11-18
+  * [Core Advancement Proposals](https://github.com/stellar/stellar-protocol/blob/master/core/README.md) ⭐ 640 | 🐛 57 | 🌐 RPC | 📅 2026-11-18
 
 * [Astrocore](https://github.com/astroband/astrocore) ⭐ 31 | 🐛 13 | 🌐 Rust | 📅 2023-08-14 - Astrocore aims to become an alternative implementation of the stellar-core, the core component of the Stellar network.
 
@@ -186,7 +186,7 @@ If you're new to Stellar start here 👇
 
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 370 | 🐛 4 | 🌐 Python | 📅 2026-11-16
-  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 200 | 🐛 10 | 🌐 Java | 📅 2026-11-16
+  * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 200 | 🐛 11 | 🌐 Java | 📅 2026-11-16
   * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-11-16
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
   * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-11-16
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
