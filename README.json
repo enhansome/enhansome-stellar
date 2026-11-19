@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T20:37:42Z",
-            "open_issues": 332,
+            "open_issues": 333,
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3317,
+            "stars": 3318,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:44.371Z"
@@ -126,11 +126,11 @@
                 "id": 43143745,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:41:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-19T11:40:12Z",
+                "open_issues": 7,
                 "owner": "StellarCN",
                 "repo": "py-stellar-base",
-                "stars": 370,
+                "stars": 368,
                 "topics": [
                   "blockchain",
                   "horizon",
@@ -154,7 +154,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T13:53:08Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "lightsail-network",
                 "repo": "java-stellar-sdk",
                 "stars": 200,
@@ -242,8 +242,8 @@
                 "id": 274342651,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-11-16T15:58:46Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-19T21:54:37Z",
+                "open_issues": 8,
                 "owner": "Soneso",
                 "repo": "stellar_flutter_sdk",
                 "stars": 88,
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:59:41.635Z",
+    "last_updated": "2026-11-19T23:08:03.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more. ",
@@ -816,7 +816,7 @@
       "open_issues": 13,
       "owner": "stellar",
       "repo": "awesome-stellar",
-      "stars": 194,
+      "stars": 193,
       "topics": [
         "awesome-list",
         "blockchain",
