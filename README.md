@@ -187,9 +187,9 @@ If you're new to Stellar start here 👇
 * Stellar SDKs
   * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 6 | 🌐 Python | 📅 2026-11-20
   * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 200 | 🐛 11 | 🌐 Java | 📅 2026-11-20
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 1 | 🌐 Swift | 📅 2026-11-20
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 1 | 🌐 Swift | 📅 2026-11-21
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
-  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 1 | 🌐 Dart | 📅 2026-11-20
+  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-11-21
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
   * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 6 | 🌐 C++ | 📅 2026-11-03
   * [Scala SDK](https://github.com/synesso/scala-stellar-sdk) ⚠️ Archived
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
