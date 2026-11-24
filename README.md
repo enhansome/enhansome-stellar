@@ -185,11 +185,11 @@ If you're new to Stellar start here 👇
 * [Stellar Laboratory](https://www.stellar.org/laboratory/) - The Stellar Laboratory is a set of tools that enables people to try out and learn about the Stellar network.
 
 * Stellar SDKs
-  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 8 | 🌐 Python | 📅 2026-11-20
+  * [Python SDK](https://github.com/StellarCN/py-stellar-base) ⭐ 368 | 🐛 7 | 🌐 Python | 📅 2026-11-24
   * [Java SDK](https://github.com/stellar/java-stellar-sdk) ⭐ 200 | 🐛 11 | 🌐 Java | 📅 2026-11-20
-  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-11-22
+  * [iOS and macOS SDK](https://github.com/Soneso/stellar-ios-mac-sdk) ⭐ 132 | 🐛 0 | 🌐 Swift | 📅 2026-11-24
   * [C# .NET Core 2.0 SDK](https://github.com/elucidsoft/dotnet-stellar-sdk) ⚠️ Archived
-  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 2 | 🌐 Dart | 📅 2026-11-22
+  * [Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk) ⭐ 88 | 🐛 0 | 🌐 Dart | 📅 2026-11-23
   * [Ruby SDK](https://github.com/astroband/ruby-stellar-sdk) ⭐ 73 | 🐛 25 | 🌐 Ruby | 📅 2025-01-28
   * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) ⭐ 28 | 🐛 6 | 🌐 C++ | 📅 2026-11-03
   * [Scala SDK](https://github.com/synesso/scala-stellar-sdk) ⚠️ Archived
@@ -205,7 +205,7 @@ If you're new to Stellar start here 👇
   * [SatoshiPay's Horizon API](https://stellar-horizon.satoshipay.io/) - SatoshiPay's alternative to Stellar.org's Horizon API servers. Servers hosted in the US, Europe, and Asia.
 
   * [Astrograph](https://astrograph.io/) - A GraphQL interface to the Stellar network.
-    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 116 | 🐛 91 | 🌐 TypeScript | 📅 2026-10-28
+    * [Astrograph Github Repo](https://github.com/astroband/astrograph) ⭐ 116 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-28
 
   * [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - A library that is a bridge between Stellar and IPFS.
     * [go-stellar-ipfs Github Repo](https://github.com/aanupam23/go-stellar-ipfs)
@@ -432,4 +432,4 @@ Spell checking and checking for broken/incorrect links is also welcomed - let's 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
